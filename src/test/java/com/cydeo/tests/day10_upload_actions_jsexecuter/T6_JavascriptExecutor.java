@@ -8,6 +8,8 @@ import org.testng.annotations.Test;
 public class T6_JavascriptExecutor {
 
 
+    //JavaScript method to use : window.scrollBy(0,0)
+
     @Test
     public void javascript_executor_test1() {
 
